@@ -1,8 +1,4 @@
 <p align="center">
-	<img alt="HCShell" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='80'><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='monospace' font-size='18'>HCshell — A tiny Rust shell</text></svg>" />
-</p>
-
-<p align="center">
 	<a href="https://www.rust-lang.org"><img alt="Made with Rust" src="https://img.shields.io/badge/built%20with-rust-000000.svg"></a>
 	<a href="https://crates.io/crates/rustyline"><img alt="rustyline" src="https://img.shields.io/badge/rustyline-17.0.2-blue.svg"></a>
 </p>
@@ -17,8 +13,7 @@ Key features
 - Cross-platform history file handling
 - Uses `rustyline` for line editing and history
 -
-## Screenshot
-
+## HCShell
 <p align="center">
 	<img alt="HCShell screenshot" src="assets/screenshot.png" />
 </p>
