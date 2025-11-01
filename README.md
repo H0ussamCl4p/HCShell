@@ -16,6 +16,14 @@ Key features
 - Friendly colored ASCII banner and prompt (username$ /path)
 - Cross-platform history file handling
 - Uses `rustyline` for line editing and history
+-
+## Screenshot
+
+<p align="center">
+	<img alt="HCShell screenshot" src="assets/screenshot.png" />
+</p>
+
+_HCShell running with the colored banner and the `username$ /path` prompt._
 
 Requirements
 - Rust toolchain (rustup + cargo)
