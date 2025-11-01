@@ -12,7 +12,7 @@ Key features
 - Friendly colored ASCII banner and prompt (username$ /path)
 - Cross-platform history file handling
 - Uses `rustyline` for line editing and history
--
+
 ## HCShell
 <p align="center">
 	<img alt="HCShell screenshot" src="assets/screenshot.png" />
@@ -90,14 +90,6 @@ Configuration & notes
 - History: stored at `$HOME/.hcshell_history` on Unix-like systems, `%USERPROFILE%\\.hcshell_history` on Windows; falls back to the OS temp directory when needed.
 - Prompt: shows `username$ /short/path`. It shortens home to `~` and compresses long paths to show trailing components.
 - Colors: implemented via ANSI escape codes; use a terminal that supports ANSI (Windows Terminal, PowerShell 7+, WSL terminals).
-
-Contributing
-
-Contributions welcome! Open issues or PRs for prompt features, parsing improvements, tests, or docs.
-
-License
-
-MIT (or change to your preferred license)
 
 ---
 
